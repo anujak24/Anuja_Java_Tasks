@@ -9,6 +9,7 @@ public class PraccClass1 {
 		PraccClass1  praccClass1 = new PraccClass1();
 		praccClass1.printWord();
 		System.out.println("My 1st commit edited");
+		System.out.println("2nd commit");
 		}
 	 
 	}
