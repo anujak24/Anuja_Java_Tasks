@@ -8,7 +8,7 @@ public class PraccClass1 {
 	public static void main(String[] args) {
 		PraccClass1  praccClass1 = new PraccClass1();
 		praccClass1.printWord();
-		System.out.println("My 1st commit edited");		
+		System.out.println("My 1st commit edited");
 		}
 	 
 	}
