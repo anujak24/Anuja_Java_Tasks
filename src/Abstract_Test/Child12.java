@@ -13,7 +13,9 @@ public class Child12 extends P1{
 	void display() {
 		
 		System.out.println("Got implemenations");	
-		System.out.println("Branch 100");
+
+		System.out.println("Branch two1920");
+
 	}
 
 }
